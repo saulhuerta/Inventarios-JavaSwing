@@ -1,7 +1,7 @@
-CellFusion
+InvSystem
 ==========
 
-CellFusion Project (TEST)
+:: Java Swing Project ::
 
 
 Proyecto en Java-Swing creado con mediante los "wizards" de NetBeans para mostrar
