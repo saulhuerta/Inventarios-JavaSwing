@@ -8,7 +8,9 @@ Proyecto en Java-Swing creado con mediante los "wizards" de NetBeans para mostra
 la generación rápida de interfaces con Java Swing y su facil distribución.
 
 Al empaquetar el proyecto generará un .jar en la carpeta /dist que se podrá ejecutar con:
-java -jar InvSystem.jar
+
+**java -jar InvSystem.jar**
+
 
 Se utilizó:
  - NetBeans 8.0
